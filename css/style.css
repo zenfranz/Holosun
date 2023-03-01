@@ -26,4 +26,17 @@ body {
 
 .tech_icons {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+
+.tech_icons_item {
+    text-align: center;
+    
+}
+.tech_icons_item:hover {
+    transition: 0.2s;
+    transform: scale(1.1);
+    
 }
