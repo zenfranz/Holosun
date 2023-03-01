@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20%;
+}
+
+.header{
+    text-align: center;
+}
+
+.header p {
+    text-align: justify;
+}
+
+.header_banner {
+    height: auto;
+    width: auto;
+    display: flex;
+    position: relative;
+
+}
+.header_banner{
+    text-align: justify;
+}
+
+.tech_icons {
+    display: flex;
+}
