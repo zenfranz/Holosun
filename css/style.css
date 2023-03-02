@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: 'Montserrat', sans-serif;
-    margin: 20%;
+    padding-left: 5%;
 }
 
 .header{
@@ -25,6 +25,9 @@ body {
 }
 
 .tech_icons {
+    height: 20%;
+    width: 50%;
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
